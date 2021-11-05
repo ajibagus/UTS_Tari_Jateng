@@ -1,4 +1,4 @@
-package com.example.ajibagus_uts
+package com.ajibagus.ajibagus_uts
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

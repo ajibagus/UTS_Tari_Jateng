@@ -1,4 +1,4 @@
-package com.example.ajibagus_uts
+package com.ajibagus.ajibagus_uts
 
 class DataModel (
     val gambar: Int,

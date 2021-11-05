@@ -1,4 +1,4 @@
-package com.example.ajibagus_uts
+package com.ajibagus.ajibagus_uts
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
